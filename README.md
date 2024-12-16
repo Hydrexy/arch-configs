@@ -1,1 +1,1 @@
-run set-up.sh rooted
+run set-up.sh run rooted
