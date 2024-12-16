@@ -1,11 +1,11 @@
 #!/bin/zsh
 
-cp -ru etc/* /etc
+suod cp -ru etc/* /etc
 
-cp -ru root/* /root
+sudo cp -ru root/* /root
 
-cp -ru skel/* /etc/skel
+sudo cp -ru skel/* /etc/skel
 
-cp -ru usr/share/konsole/*
+sudo cp -ru usr/share/konsole/*
 
-cp -ru usr/share/vim/vim91/*
+sudo cp -ru usr/share/vim/vim91/*
